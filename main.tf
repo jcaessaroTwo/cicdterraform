@@ -14,7 +14,7 @@ terraform {
   cloud { 
     organization = "josecitoCompany" 
     workspaces { 
-      name = "terrapi" 
+      name = "CICD" 
     } 
   } 
 }
